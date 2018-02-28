@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "3DAE21D5-5D03-4F56-B812-3F24703FDB00",
+  "do_objectID": "5F3BFB99-C514-4782-B000-8297BCBEB737",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,12 +20,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1959,
+    "height": 2295,
     "width": 1280,
-    "x": 1677,
-    "y": -922
+    "x": -70,
+    "y": -331
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,27 +39,31 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "9ED1C1A5-25C5-425A-9879-16639314BC2E"
+      "class": "shapeGroup",
+      "id": "7E8AEB1E-F7F3-4C86-8228-56C7C720C8D7"
     },
     {
-      "class": "group",
-      "id": "74427DD7-2152-487C-BA05-530456014985"
+      "class": "shapeGroup",
+      "id": "C17EA9F3-3BCC-4B07-A480-6C5993EDEF8A"
     },
     {
-      "class": "group",
-      "id": "47C0C732-606B-4005-AB5F-91572E09060A"
+      "class": "shapeGroup",
+      "id": "322FEEF6-9726-4792-B8E0-7CE77DBC92FE"
     },
     {
-      "class": "group",
-      "id": "E14BB86B-EFF4-47B5-AAA7-0F50AB9898D6"
+      "class": "shapeGroup",
+      "id": "D87C6D9B-A816-4813-9006-584167AF0CD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90D460DD-46DB-4C43-A52B-619AE0CC4746"
     },
     {
       "class": "symbolInstance",
-      "id": "FC4A90C5-4B89-49D5-AB42-19A4CC90F038"
+      "id": "EA7ADDFB-EC70-4D35-90B0-B079AE1D3C0C"
     }
   ],
   "layout": {
@@ -72,13 +76,13 @@
     "gutterWidth": 24,
     "guttersOutside": false,
     "horizontalOffset": 40,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "4x1",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
