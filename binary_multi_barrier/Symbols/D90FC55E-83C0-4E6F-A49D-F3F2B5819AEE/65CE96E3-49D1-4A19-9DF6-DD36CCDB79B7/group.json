@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "65CE96E3-49D1-4A19-9DF6-DD36CCDB79B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A554654-9455-4108-BF99-9C7FFA835A02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A4EF67ED-E5BC-4EEB-9735-CF671AA6F79B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F076724-3CF0-4467-AFE4-77689D80A8F0"
+    }
+  ],
+  "name": "icons/trade/touches",
+  "nameIsFixed": true,
+  "originalObjectID": "65CE96E3-49D1-4A19-9DF6-DD36CCDB79B7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "68DF58F8-1DD2-4B76-83C3-8C4B77F5E5F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 502,
+    "x": 0,
+    "y": 110
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "trade/list-game",
+  "nameIsFixed": false,
+  "originalObjectID": "61457AC2-0D2F-49AA-97A2-E3AD50D5BD18",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B54BB90-F57F-409A-8C4E-022B09905EA2_stringValue",
+      "value": "Touches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "15714C3C-9C77-4E50-B3AA-37A3F01105A3_stringValue",
+      "value": "Does Not Touches"
+    }
+  ],
+  "overrides": {
+    "15714C3C-9C77-4E50-B3AA-37A3F01105A3": "Does Not Touches",
+    "3B54BB90-F57F-409A-8C4E-022B09905EA2": "Touches"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "647FA5E4-A2A3-41CD-9746-1CB953ECF4FF",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}
