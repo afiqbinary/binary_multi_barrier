@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "D6A7D957-5F9A-4481-858F-1140408E0093",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 246,
+    "x": 256,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E14B8F5C-DF98-4863-8CAB-7A5324713EB8"
+    },
+    {
+      "class": "text",
+      "id": "2F6D7BFF-94DD-4060-8038-5FB7A1EC6BC2"
+    },
+    {
+      "class": "group",
+      "id": "EEE70B75-B5CB-4340-803F-768DB2BBE551"
+    }
+  ],
+  "name": "Payout Stake",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

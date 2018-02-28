@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "520EA3FE-CF17-4CC9-A3A5-83CD39F8D684",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 251,
+    "x": 0,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DAD4FBB3-9531-40D6-9464-49820701EA90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99034DBC-7FA5-424D-9FB6-59216A70E979"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56D2A754-C85A-4A97-AFE4-68C348A1B5D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10E28437-E051-4651-BECF-B166409AA2C6"
+    }
+  ],
+  "name": "Contract Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "7DFFD736-6113-4A22-8CAD-CF73E2FDF6A9",
+      "transition": 0
+    }
+  }
+}
