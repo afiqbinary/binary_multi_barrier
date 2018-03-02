@@ -1,0 +1,116 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "BEB95DD7-C708-4ADE-9571-55F15C1E2151",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1959,
+    "width": 1280,
+    "x": 2761,
+    "y": -9437
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "3E2AD325-8F22-4EDC-8CC4-A2AB7999F096"
+    },
+    {
+      "class": "group",
+      "id": "B346E079-223D-4192-8ED0-896133FC2A62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "589728CD-425C-48E7-A44A-CF6EBAC38C0A"
+    },
+    {
+      "class": "group",
+      "id": "B59CC963-9192-4A59-A391-14D1B2E4EBC4"
+    },
+    {
+      "class": "group",
+      "id": "64DE89D7-A606-4773-9B03-8B627D32C9D4"
+    },
+    {
+      "class": "group",
+      "id": "39AAFF80-AAC3-48C6-B33F-68AC6679B955"
+    },
+    {
+      "class": "group",
+      "id": "3D9B6518-F855-4DA0-B423-313A2BC09AFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33E52AAB-10A9-4C0E-911F-B12DD38FCA87"
+    },
+    {
+      "class": "text",
+      "id": "86926738-4A6A-49E1-9A4A-EC00E2041635"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "10.Pair Hover 1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

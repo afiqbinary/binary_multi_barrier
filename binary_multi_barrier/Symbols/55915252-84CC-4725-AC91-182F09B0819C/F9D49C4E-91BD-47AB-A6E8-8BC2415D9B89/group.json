@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F9D49C4E-91BD-47AB-A6E8-8BC2415D9B89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD5553D4-4F57-476A-9090-1150FE5490C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7579833F-8B9D-4E68-BF8E-05B2138AC176",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "738B9158-1A0D-46C3-932F-55285D06FD48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CC61E0B-5912-4FEC-94A8-C85590595E28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F556AC9-29D1-4F76-A3D2-ABA0EF23D6CD"
+    }
+  ],
+  "name": "icons/trade/stays-in-between",
+  "nameIsFixed": true,
+  "originalObjectID": "647E4FEF-EFF3-45B6-8E55-0B0ABD8D9D86",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A20B8320-FDFE-4FB0-948D-C36985A374D9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

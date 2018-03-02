@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "58F69D24-261A-4074-BE8A-ECEE5077D115",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 445,
+    "width": 486,
+    "x": 754,
+    "y": 382
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "130EE307-01E8-483F-98BD-5374C6F2D673"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "941F9096-023D-4282-AD50-646EFB1F6816"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66960CC4-7DBD-46AE-AF4A-523518E30C55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B00F324-5F52-4F06-9900-9301AAD192DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1DEE8CF-EB71-453D-9250-E608EA38F2D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D39A9620-2848-4CB7-9226-7FEFA5216CB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDE53577-6FD5-41C7-9805-38D60EA0792F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEA0FAA1-6B38-4F0B-AEBB-4DF0A5CFB9EE"
+    },
+    {
+      "class": "group",
+      "id": "C09B7454-8E59-420E-BDC9-FC9554283BB5"
+    }
+  ],
+  "name": "Price Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

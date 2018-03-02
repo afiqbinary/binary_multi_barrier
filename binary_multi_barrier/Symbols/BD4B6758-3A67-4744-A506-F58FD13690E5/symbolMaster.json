@@ -1,0 +1,98 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 691,
+  "do_objectID": "BD4B6758-3A67-4744-A506-F58FD13690E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 24,
+    "x": 1611,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8A31F290-11A8-446F-9CB6-C9DB22F29E1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72020E4E-1B9E-453F-91B9-A126AAFAF67E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "775F9149-F3AB-4090-B8A2-6D37B4B256C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6ABAE9A1-2CAB-4DBB-A8D2-935B23391741"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBEB8FD3-21DA-42A3-BC06-7D153BC3AAE4"
+    }
+  ],
+  "name": "icons/flags/australia aud",
+  "nameIsFixed": true,
+  "originalObjectID": "5F259060-7AAA-438F-B8EC-72F1F3ED7013",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F6A02672-2960-4528-9202-676E1FF9017E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

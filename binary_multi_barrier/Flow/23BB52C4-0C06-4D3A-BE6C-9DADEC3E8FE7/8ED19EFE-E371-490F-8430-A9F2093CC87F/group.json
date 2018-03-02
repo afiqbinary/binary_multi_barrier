@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "8ED19EFE-E371-490F-8430-A9F2093CC87F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14080EA2-2393-46B2-9375-5E70439BDD87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09785B9D-48E8-4080-B2D5-C3DADA20B95F",
+    "height": 445,
+    "width": 486,
+    "x": 754,
+    "y": 382
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5D572D3-E27F-4583-ABE5-A85241A8AA50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5879C454-1183-4D8D-B336-8461A9E371C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1870A6FE-4AA1-4AF5-A6E8-E8A87B263DF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDC1F8C0-6551-4AF5-9568-B1195EE01EA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37450AEE-4508-4E6D-86AF-1E46B950A56C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B53EFE9B-79B0-4AE9-85A4-105ADAAC3EFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "728F8898-90F9-4BBA-A6AE-231BC952FDBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CB1A3B0-8C2F-45CF-9D99-82D39DB0D2FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E161F27-44B9-49DC-AE57-EA14D11984C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7AD6CD6-4690-4581-AA7A-9385936AE851"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42A17129-1B30-4D49-BCB8-C6C2061BB9CB"
+    }
+  ],
+  "name": "Price Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04C0D190-F2A0-4393-A425-E7AEEFA02C9A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

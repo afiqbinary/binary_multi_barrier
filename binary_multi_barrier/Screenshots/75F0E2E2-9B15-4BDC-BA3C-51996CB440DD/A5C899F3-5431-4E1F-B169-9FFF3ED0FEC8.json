@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 2727,
-    "width": 2475,
+    "height": 1364,
+    "width": 1238,
     "x": 0,
     "y": 0
   },
@@ -38,14 +38,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 20,
-      "type": 0
-    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

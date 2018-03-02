@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "10C1712A-C8E1-4ED4-8FD6-89B7A5B5E5E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 110,
+    "x": 754,
+    "y": 300
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE4C057F-2C4F-4F64-BC25-EF11E3046083"
+    },
+    {
+      "class": "text",
+      "id": "FB072993-2D1B-4E36-8131-2DE38896522A"
+    },
+    {
+      "class": "text",
+      "id": "911A589C-7EBA-4C61-B23F-BEC980C6F1E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB8DFB92-3C61-44B1-AAFC-B8AFB298E0DE"
+    },
+    {
+      "class": "text",
+      "id": "5B4E5F76-4A08-4E99-90FD-3C2B964CCD05"
+    }
+  ],
+  "name": "Payout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

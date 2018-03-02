@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "9C37B4EB-787B-49C5-BFB5-C2DDDFE1970D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED88420E-9924-43A7-8BCF-F5B8218BB46B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE563ED1-5EDD-489E-92EF-511B44845B80",
+    "height": 55,
+    "width": 486,
+    "x": 754,
+    "y": 235
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "53C9883C-4B71-46C6-8AA6-7ECD60A31A7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59353804-C7FB-4497-AD9E-239BAB976C0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9248541D-F78A-4F28-BFA2-14472AEC9B82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E38E5F0D-7B9C-430E-B6A9-AFB982603FEA"
+    }
+  ],
+  "name": "Contract Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7983E2D7-F176-422E-9071-32346F91B606",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "6357556D-F4E7-4762-BF08-560FFC76B9DF",
+      "transition": 0
+    }
+  }
+}

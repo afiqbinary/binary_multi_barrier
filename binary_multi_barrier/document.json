@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "aac45a80-1c4b-11e8-b318-c38466b23257",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,13 +24,13 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Screen",
-    "WIreframe",
+    "Flow",
     "Screenshots",
     "Symbols"
   ],

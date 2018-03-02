@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7F10FA4D-05A7-4A61-BB18-E7194AD8237E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1959,
+    "width": 1280,
+    "x": 2761,
+    "y": -6978
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F2CBC9FA-B4A0-4D09-9148-4D0990409062"
+    },
+    {
+      "class": "group",
+      "id": "75A6BDF0-0387-4A27-8E79-60B4F99DE34E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AD1F1B7-317F-4705-9398-05038A73127A"
+    },
+    {
+      "class": "group",
+      "id": "D7CCA658-8EF5-4143-A8FC-8CC8BAFB60C1"
+    },
+    {
+      "class": "group",
+      "id": "4761A03C-0894-41FE-A94B-B93938506477"
+    },
+    {
+      "class": "group",
+      "id": "30415254-0F9A-41FB-88E0-B7E32250176B"
+    },
+    {
+      "class": "group",
+      "id": "D9A35324-88F4-4DCD-83DE-7C0FFDB8D85A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6EC2A67-D6A6-41A6-8198-A957B1B66184"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "11.Pair Hover 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

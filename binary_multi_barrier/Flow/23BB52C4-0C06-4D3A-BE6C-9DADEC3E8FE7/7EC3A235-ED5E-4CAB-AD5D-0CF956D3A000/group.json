@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "7EC3A235-ED5E-4CAB-AD5D-0CF956D3A000",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE23B19D-A1A3-4B48-9C10-D8E83B61BC80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "398275FB-D9C7-403E-9BA3-B9B81AB80C1D",
+    "height": 56,
+    "width": 488,
+    "x": 753,
+    "y": 169
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2DA041D5-D0FC-4722-9A92-FBB1325CDDDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "504E508E-0F52-4F39-AC93-878EE015CEE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3CCC554-CDA1-4059-82BC-1C6D68089A31"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD2741CB-07EA-46DA-B4A3-E5D1E7544213"
+    }
+  ],
+  "name": "Pair",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DC61342-69A8-49D1-902B-85E87A5D6FE9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "BEB05C3D-A0F8-4CA9-9914-5029B8E363D1",
+      "transition": 0
+    }
+  }
+}

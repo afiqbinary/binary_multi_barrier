@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "86F567DC-2A97-4AF6-9567-52DB7EE5D199",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1959,
+    "width": 1280,
+    "x": -7190,
+    "y": 16837
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "3E8AC717-B179-4EA9-89D3-5ED2EBFBB50E"
+    },
+    {
+      "class": "group",
+      "id": "19A5358C-7816-4ACC-8DD0-AF9F1DE469D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E24EE81-FAA0-4B11-870B-B99E0C279994"
+    },
+    {
+      "class": "group",
+      "id": "D7C4F7D3-D3C3-4E57-905D-40E664940DDB"
+    },
+    {
+      "class": "group",
+      "id": "DBD1295D-BF6E-42C0-BE55-A9C5856FD554"
+    },
+    {
+      "class": "group",
+      "id": "DC41BCF6-3731-498E-AEB1-04D903C21878"
+    },
+    {
+      "class": "group",
+      "id": "BFD59A32-B8DF-4DC7-B1F9-4552E5C925CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB894562-7879-4A6E-A7F8-A79B8BAF9D02"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "6.Price Hover 5",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

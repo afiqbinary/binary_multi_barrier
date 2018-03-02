@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C10219E9-B51B-46D0-A273-100A3E879228",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E4083C3-8E1B-46F8-BDAA-3B379DE7B956",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "492B03FB-4695-4C2E-8058-2BC7EB460950",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C55E896-E01D-40C7-BB02-EFEC67F10F0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE032187-FCB0-4F36-BB57-0EA1B35E1AA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1C36F64-1A15-4B65-8437-204D11629E52"
+    }
+  ],
+  "name": "icons/trade/ends-outside",
+  "nameIsFixed": true,
+  "originalObjectID": "58935AEF-3D35-4AAA-8AC1-062813957C9F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3900A55F-5861-4E5B-B96E-BDD374688227",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

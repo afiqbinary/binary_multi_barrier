@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 19,
+  "changeIdentifier": 190,
   "do_objectID": "9954BD8C-3EBD-42CD-8480-AF02799C08C6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,17 +39,18 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "26449764-7B40-4D2B-A71C-15EA6636BAC3"
+      "class": "group",
+      "id": "B1809798-404B-4E52-891F-6AC7654A93BE"
     },
     {
-      "class": "symbolInstance",
-      "id": "FAAA5A1B-A1DA-4D64-BB70-E1E9C574BC96"
+      "class": "group",
+      "id": "C70800A0-D490-4150-8012-38B6425061AA"
     }
   ],
   "name": "icons/currencies/pair",

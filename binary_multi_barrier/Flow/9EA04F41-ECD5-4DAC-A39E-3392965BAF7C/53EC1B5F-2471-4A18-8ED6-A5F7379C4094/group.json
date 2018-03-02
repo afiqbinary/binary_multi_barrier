@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "53EC1B5F-2471-4A18-8ED6-A5F7379C4094",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 445,
+    "width": 486,
+    "x": 754,
+    "y": 382
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "08DC9102-8AF8-4F84-BCAD-58095D4ED34C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D27C212-743B-4850-9165-F84FA716DCB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F598C5D5-3AA5-44B8-BD99-10975D55BC1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CFCE526-4C83-4A12-BBB3-73B5E2B61343"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C13F713-8475-4F9A-867E-D01F387DBA04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB1A5C3E-69DA-4E52-9FD9-36AEA9A1D488"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F1E9B29-9C0A-4AE2-B00A-5EF7FCC1B9DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D24C422F-C9EF-4839-8502-300CF41D84D2"
+    },
+    {
+      "class": "group",
+      "id": "12490077-0D97-4BEB-B184-CEF074CB8B00"
+    }
+  ],
+  "name": "Price Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E879CE20-73F6-471E-B3BA-F4C17B8E8DDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 40,
+    "x": 61,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/currencies/pair",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C2A453A0-05BB-4615-A78F-5DFD409AEE57_symbolID",
+      "value": "F6A02672-2960-4528-9202-676E1FF9017E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C3E4A6E4-CD5F-4E03-BD0C-E34571FC7843_symbolID",
+      "value": "F6C670F3-F303-4FAD-AB83-13C0EFA186CC"
+    }
+  ],
+  "overrides": {
+    "C2A453A0-05BB-4615-A78F-5DFD409AEE57": {
+      "symbolID": "F6A02672-2960-4528-9202-676E1FF9017E"
+    },
+    "C3E4A6E4-CD5F-4E03-BD0C-E34571FC7843": {
+      "symbolID": "F6C670F3-F303-4FAD-AB83-13C0EFA186CC"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A19D6283-ECF0-4271-81ED-86100D431130",
+  "verticalSpacing": 0
+}

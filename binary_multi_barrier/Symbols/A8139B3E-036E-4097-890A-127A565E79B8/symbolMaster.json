@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 50,
+  "changeIdentifier": 52,
   "do_objectID": "A8139B3E-036E-4097-890A-127A565E79B8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 460
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "6F625230-8476-4BBC-AF87-804CCD95D6F4"
     }
   ],
-  "name": "trade/item-text",
-  "nameIsFixed": false,
+  "name": "trade/item-text/1 row",
+  "nameIsFixed": true,
   "originalObjectID": "A8139B3E-036E-4097-890A-127A565E79B8",
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "E830E035-EE44-4A0C-94D6-6CAC351F0EFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2816DC9E-C6E2-488C-BAC5-35B7DAC5831D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D546F26F-F9A2-44EA-A797-2132EA45CE05",
+    "height": 55,
+    "width": 486,
+    "x": 754,
+    "y": 235
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6688CB2F-31D9-42F2-B8A6-52CEA0127171"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F207D28-CAC0-42DA-B7EE-9121590AAE89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "468E0206-51C2-4BD9-BCD6-AE7C58CFB22D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E0F7F72-F85E-4EFA-A981-113EA3801898"
+    }
+  ],
+  "name": "Contract Time",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6340113-8AB2-46F1-A110-FADB618F4060",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+  }
+}

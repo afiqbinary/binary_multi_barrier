@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "4515E585-FB89-40E7-9D46-ECF77C0739A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53D1D352-A5A5-451E-A3E4-D8DA16BAE439",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "64DF2152-842A-437A-BEB9-A93A94FEF074",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DF89047-D275-4C92-9B18-D45730DEA8A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61918A23-41C2-4FDB-A4CD-CC5CE52D4C4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFD35288-2F78-4926-B487-AC419A2556D3"
+    }
+  ],
+  "name": "icons/trade/ends-in-between",
+  "nameIsFixed": true,
+  "originalObjectID": "F0B0D20F-9F09-43FB-9B72-D95D08FF434D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86CD19CB-AAB6-445E-9AD2-9D532D3285B0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

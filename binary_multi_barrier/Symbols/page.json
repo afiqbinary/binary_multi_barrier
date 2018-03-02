@@ -54,6 +54,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "1B0CA40A-4FFC-46BF-9D39-76BE34C9B20D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F853EA68-BF85-47E6-8955-1DE2E87885F3"
+    },
+    {
+      "class": "symbolMaster",
       "id": "5A24DE17-4259-4C1D-9A54-4F67D4BF9745"
     },
     {
@@ -70,11 +78,91 @@
     },
     {
       "class": "symbolMaster",
+      "id": "BD4B6758-3A67-4744-A506-F58FD13690E5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B47551CC-AA0F-4A95-877A-997DDC23C357"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "12F2C2BC-5205-411A-A330-D171A053E73F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4C8AED27-C7D7-40A9-A746-0C5BF4281B3D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "11FB7DE9-25CF-4394-BEA8-64B56705E96E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "79C112BB-B8FA-4A20-BC61-EAC1ACCFCB47"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "77C3A7CA-EDCF-463E-81BE-A494944BBE47"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8F5F5528-10CA-4255-91A9-994E087D2565"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "01176E4F-C1D5-4881-9E6A-6AB441BCE379"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1015912C-0582-4EE7-BC99-451200E6D7A4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "03C2811B-490A-4A3F-AE90-B67DCFFC848A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7770429F-EDB9-40E1-BA3F-B07E9A6A9F3E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BE5CBA0B-2360-48C5-BF86-CDE20C66BFD9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9EBC10E9-3F17-4505-AC1E-C1DAF0D069AE"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0F9C5739-D5DF-486A-ADE3-D63CBBCEA4BA"
     },
     {
       "class": "symbolMaster",
       "id": "D90FC55E-83C0-4E6F-A49D-F3F2B5819AEE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D3E0DCE-594E-488E-8B53-FD99CD4714C4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "85038BE7-D914-4EDB-A867-5AF4909ADD87"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "79C0D262-AF21-44DE-B395-6786A0395860"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4CCB9582-63A0-47B8-9B00-632CBC84B4BF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B8FCAF5B-AFF0-4A70-9B58-85A350168A70"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "55915252-84CC-4725-AC91-182F09B0819C"
     },
     {
       "class": "symbolMaster",
@@ -91,6 +179,18 @@
     {
       "class": "symbolMaster",
       "id": "A8139B3E-036E-4097-890A-127A565E79B8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F90157A3-9690-4A20-94BC-489BE066EAC5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "83D849D4-AC1C-4D31-B68D-CE7A806EB384"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D7383B42-89FC-48E3-A1AC-264CD0E3E390"
     },
     {
       "class": "symbolMaster",
@@ -111,6 +211,46 @@
     {
       "class": "symbolMaster",
       "id": "6E69DC2C-6E27-4DE1-9269-27F67E68D906"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "953B1DBB-4DEE-4D3E-A5FC-92D5E1138862"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6E258F7E-662F-4239-9576-C364B9A668F5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "57B5A834-87B6-4597-9CE8-71AB24BAE775"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0278761D-1665-4A52-AFC2-A7A49053B1C9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "65EF8C3C-FEC6-48DB-BD38-48837A16EEB2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "577BCAC9-6BAD-4021-9DBC-B3FF47481C95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26449764-7B40-4D2B-A71C-15EA6636BAC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAAA5A1B-A1DA-4D64-BB70-E1E9C574BC96"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F35F70E3-6A15-487B-8F2B-562382EBBE19"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9960E1FF-5B36-4686-B29F-E21E7DF15534"
     }
   ],
   "name": "Symbols",
@@ -124,6 +264,14 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "https://github.com/kupe517/sketch-split-shape": {
+      "splitterCols": "2",
+      "splitterGutter": "20",
+      "splitterMargins": "0",
+      "splitterRows": "1"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

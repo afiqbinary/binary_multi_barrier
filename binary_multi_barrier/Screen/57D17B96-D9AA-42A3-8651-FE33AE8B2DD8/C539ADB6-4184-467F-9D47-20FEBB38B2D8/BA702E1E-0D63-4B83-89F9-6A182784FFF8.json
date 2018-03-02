@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BA702E1E-0D63-4B83-89F9-6A182784FFF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 200,
+    "x": 740,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Table/row Copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "0278761D-1665-4A52-AFC2-A7A49053B1C9",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "72382728-CD15-48C9-ABD9-70B613179896_stringValue",
+      "value": "USD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1A49B87E-1082-473A-B61C-B4CE52CF9DA5_stringValue",
+      "value": "USD"
+    }
+  ],
+  "overrides": {
+    "1A49B87E-1082-473A-B61C-B4CE52CF9DA5": "USD",
+    "72382728-CD15-48C9-ABD9-70B613179896": "USD"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3CEB969B-CBB6-4525-81DC-F7FE33D481A6",
+  "verticalSpacing": 0
+}

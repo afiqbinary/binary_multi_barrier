@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "17C41C20-26E4-42CE-BA4C-BB0CA7143FB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7607003A-B006-4416-9D5C-A9D074A18D9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BB2B541-8C39-40C0-B2DA-F82CB5C4BA50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E63613F-0F36-468F-85EA-6EF63AC05C6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E926FA8-0BED-4763-AF5C-E477059CF94B"
+    },
+    {
+      "class": "group",
+      "id": "6AFCDAAB-A2A7-40D7-B55D-AEA67A848765"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9300ADA7-3810-4C34-AA7E-D445355A4D63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26357DD8-917B-4A4C-A5E3-0728BF5024C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA6A2F52-B521-47E9-BC4B-A429B5A3D215"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF7D75A5-BD1B-4220-8CEE-895716A59B7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B55B252-089F-41D7-9A84-0673EDA70BF2"
+    }
+  ],
+  "name": "Icon/Flag/Mexico",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5859375,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "FB57C70E-29CB-4494-BEC8-F282B2A3A889",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1959,
+    "width": 1280,
+    "x": 4141,
+    "y": 37897
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EA1021D5-C2EE-4AE2-957B-4DA61DF9B999"
+    },
+    {
+      "class": "group",
+      "id": "6A9EEEFB-AF80-414E-9575-0F37F2221E97"
+    },
+    {
+      "class": "group",
+      "id": "58A3870B-A1E6-4673-A843-F4D59A415CC7"
+    },
+    {
+      "class": "group",
+      "id": "2BB7B575-EA75-42A6-A0B9-8F51E6FC6FB7"
+    },
+    {
+      "class": "group",
+      "id": "5A382699-A6DC-4188-B253-03BD4FD942B5"
+    },
+    {
+      "class": "group",
+      "id": "B756FB85-4BE2-4B61-9E38-3F10594E6A2E"
+    },
+    {
+      "class": "group",
+      "id": "926B4141-E269-4C70-A1F4-2F2EB1043C0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A2FA0C5-8FE9-4811-8A2C-F6B2AF698D8B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 78,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 40,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "27.Trade Type Hover 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

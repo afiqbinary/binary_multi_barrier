@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 55,
-    "width": 502,
+    "width": 486,
     "x": 0,
     "y": 0
   },
@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "bg-color",
   "nameIsFixed": true,
   "originalObjectID": "F5CB6E14-8B74-4F32-871C-507BC7723609",
@@ -46,6 +42,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B5E190DF-B850-47EE-89C0-A4D6C2B5D7FD",
+  "symbolID": "C1325564-9B39-4294-BC20-1911F6D22D3C",
   "verticalSpacing": 0
 }

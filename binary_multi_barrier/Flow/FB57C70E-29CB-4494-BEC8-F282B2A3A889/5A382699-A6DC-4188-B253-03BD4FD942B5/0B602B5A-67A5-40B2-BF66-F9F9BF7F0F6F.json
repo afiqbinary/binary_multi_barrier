@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0B602B5A-67A5-40B2-BF66-F9F9BF7F0F6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8684FD3B-BFA8-4F2C-B17D-6E9912DCF317",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89C96280-7CE4-4013-88A6-C47AF6500B5A",
+    "height": 55,
+    "width": 162,
+    "x": 162,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "End Time",
+  "nameIsFixed": true,
+  "originalObjectID": "9C3FBD80-9D9E-493D-9C07-B74EF4DA39A8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "790D70C2-8070-4C87-8C78-2DBF0C1835F2",
+      "overrideName": "C1FCE32B-E56E-4A07-B76F-DCEA435AC32D_stringValue",
+      "value": "End Time"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95D3425B-6D29-4151-9DBD-D5135739483A",
+      "overrideName": "7F8357F1-84D0-4ACD-BE28-CAC454FB8495_stringValue",
+      "value": "Mar 2nd, 06:15"
+    }
+  ],
+  "overrides": {
+    "7F8357F1-84D0-4ACD-BE28-CAC454FB8495": "Mar 2nd, 06:15",
+    "C1FCE32B-E56E-4A07-B76F-DCEA435AC32D": "End Time"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52A54D0F-CEC4-403C-8C88-E509A15571AE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E3FA7108-BD55-4B9B-883B-2BFF80A016D8",
+  "verticalSpacing": 0
+}

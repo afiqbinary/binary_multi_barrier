@@ -39,6 +39,18 @@
     {
       "class": "artboard",
       "id": "75F0E2E2-9B15-4BDC-BA3C-51996CB440DD"
+    },
+    {
+      "class": "artboard",
+      "id": "15534D19-05D2-429D-8392-627E2120FDF8"
+    },
+    {
+      "class": "bitmap",
+      "id": "6839085F-A9F9-4002-935B-5E6907B2FB57"
+    },
+    {
+      "class": "bitmap",
+      "id": "9237FD92-70AD-44AC-85BE-205435BE2F25"
     }
   ],
   "name": "Screenshots",

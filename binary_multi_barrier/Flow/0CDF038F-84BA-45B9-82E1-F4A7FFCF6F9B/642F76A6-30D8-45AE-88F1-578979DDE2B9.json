@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "642F76A6-30D8-45AE-88F1-578979DDE2B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 366,
+    "x": 874,
+    "y": 300
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Trade Types",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0F1D0B1-B215-456B-A48A-39AD9712C482_stringValue",
+      "value": "Touch"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F2E38DE-8064-48FA-A40D-7AE3D75E17CF_stringValue",
+      "value": "No Touch"
+    }
+  ],
+  "overrides": {
+    "7F2E38DE-8064-48FA-A40D-7AE3D75E17CF": "No Touch",
+    "F0F1D0B1-B215-456B-A48A-39AD9712C482": "Touch"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "20CA40AD-A01C-4420-B227-9402F0B78BA1",
+  "verticalSpacing": 0
+}

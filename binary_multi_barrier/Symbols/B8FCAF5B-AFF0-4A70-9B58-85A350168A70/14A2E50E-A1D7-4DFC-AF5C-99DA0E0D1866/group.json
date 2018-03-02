@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "14A2E50E-A1D7-4DFC-AF5C-99DA0E0D1866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C35B98EC-DC2E-49F4-B057-ECAC3DC9812D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB21F5E2-022C-4ED9-BBD8-A839194E4F15",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "66E78AD1-B8D8-4BB7-83C8-CD1448706427"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C036D7C3-D8C4-4DBE-9F18-BFCAF581DBB4"
+    }
+  ],
+  "name": "icons/trade/lower",
+  "nameIsFixed": true,
+  "originalObjectID": "7D7E4712-CCDD-42D7-94FF-923542DBFE48",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDF96B80-B4B4-4B13-A203-00376D154B92",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -43,6 +43,14 @@
     {
       "class": "artboard",
       "id": "3DAE21D5-5D03-4F56-B812-3F24703FDB00"
+    },
+    {
+      "class": "group",
+      "id": "8631CEF4-B35A-4073-A013-EB3523E792DF"
+    },
+    {
+      "class": "group",
+      "id": "57D17B96-D9AA-42A3-8651-FE33AE8B2DD8"
     }
   ],
   "name": "Screen",

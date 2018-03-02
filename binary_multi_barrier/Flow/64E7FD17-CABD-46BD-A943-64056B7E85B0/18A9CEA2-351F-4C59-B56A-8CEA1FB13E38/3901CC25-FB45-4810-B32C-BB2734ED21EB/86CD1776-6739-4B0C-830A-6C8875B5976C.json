@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "86CD1776-6739-4B0C-830A-6C8875B5976C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 162,
+    "x": 324,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "remaining time",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E332342A-9A55-4603-9039-7A5D01184E3E_stringValue",
+      "value": "28 Days"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "00B98E8D-C7AA-4A76-A788-0C74291ECE9F_stringValue",
+      "value": "16:40:20"
+    }
+  ],
+  "overrides": {
+    "00B98E8D-C7AA-4A76-A788-0C74291ECE9F": "16:40:20",
+    "E332342A-9A55-4603-9039-7A5D01184E3E": "28 Days"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "45D6D018-04D6-4BBB-A2F2-C30581AC9A08",
+  "verticalSpacing": 0
+}

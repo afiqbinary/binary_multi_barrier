@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6AFCDAAB-A2A7-40D7-B55D-AEA67A848765",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 3,
+    "x": 11.2,
+    "y": 4.800000000000001
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "96C2DBB3-8B21-4788-B742-556687396431"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68916A11-CDC5-4CC8-B911-E273B081D8F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D5DC32E-D7E3-4C1F-BA8C-8ECCC51AE5B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B84D440-9593-45B2-804B-5E93B58BDCF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6FD3EEF-1A3C-4B01-A44E-E48A6024EB09"
+    }
+  ],
+  "name": "Bird",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
